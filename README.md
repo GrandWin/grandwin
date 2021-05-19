@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GrandWin
-- 👀 I’m interested in Nuxt, Vue, Electron
-
+Hi, I’m Grand_Win, Middle Front-end Developer.
+- I know perfectly well Nuxt, Vue, Vuex, Vue-router, Javascript (ES5-ES11) / Typescript, CSS (SASS/SCSS), HTML5 and Git.
+- I use Prettier, Stylelint and Editorconfig for linting my files.
 - Contact with me: @GrndWin | mrgrandwinnow@gmail.com
 
 <!---
