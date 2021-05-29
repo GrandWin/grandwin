@@ -9,7 +9,7 @@ I am developing Front-end for 3 years. I am engaged in the development of Landin
 
 ### My tool stack: ###
 
-1. Development:
+- ####  Development: ####
     - Vue (v2) (Vuex, Vue-router, Vue-meta)
     - Nuxt
     - JavaScript (ES5-ES11)
@@ -18,12 +18,12 @@ I am developing Front-end for 3 years. I am engaged in the development of Landin
     - HTML
     - CSS (SASS / SCSS)
 
-2. Linting:
+- #### Linting: ####
     - Prettier
     - Stylelint
     - Editor Config
 
-3. Additional tools:
+- #### Additional tools: ####
     - Git
     - Trello
     - Figma
