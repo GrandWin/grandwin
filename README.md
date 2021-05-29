@@ -1,6 +1,6 @@
 # Hi, I’m Grand_Win, Middle Front-end Developer. #
 
-I am developing Front-end for 3 years. I am engaged in the development of Landing pages, Progressive Web Applications (PWA), Single Page Application (SPA), Web Applications, Desktop Applications of various levels of complexity.
+I am developing Front-end for 3 years. I am engaged in the development of Progressive Web Applications (PWA), Single Page Application (SPA), Web Applications, Landing pages, Desktop Applications of various levels of complexity.
 
 ## Main Info ##
 - My name is Nikita.
