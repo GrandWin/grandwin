@@ -7,8 +7,28 @@ I am developing Front-end for 3 years. I am engaged in the development of Landin
 - I am 17 year old.
 - I love Front-end and everything connected with it.
 
-### Tool stack: ###
+### My tool stack: ###
 
-- I know perfectly well Nuxt, Vue, Vuex, Vue-router, Javascript (ES5-ES11) / Typescript, CSS (SASS/SCSS), HTML5 and Git.
-- I use Prettier, Stylelint and Editor Config for linting my files.
-- Contact with me: (@GrndWin)[https://t.me/GrndWin] | mrgrandwinnow@gmail.com.
+1. Development:
+    - Vue (v2) (Vuex, Vue-router, Vue-meta)
+    - Nuxt
+    - JavaScript (ES5-ES11)
+    - TypeScript
+    - Electron
+    - HTML
+    - CSS (SASS / SCSS)
+
+2. Linting:
+    - Prettier
+    - Stylelint
+    - Editor Config
+
+3. Additional tools:
+    - Git
+    - Trello
+    - Figma
+
+### Contact with me: ###
+  + Via Telegram: [@GrndWin](https://t.me/GrndWin "Open in Telegram")
+  + Via Mail: mrgrandwinnow@gmail.com
+  + Via Discord: Grand_Win#0001
