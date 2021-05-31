@@ -29,6 +29,6 @@ I am developing Front-end for 3 years. I am engaged in the development of Progre
     - Figma
 
 ### Contact with me: ###
-  + Via Telegram: [@GrndWin](https://t.me/GrndWin "Open in Telegram")
+  + Via Telegram: [@Grand_W1n](https://t.me/Grand_W1n "Open in Telegram")
   + Via Mail: mrgrandwinnow@gmail.com
   + Via Discord: Grand_Win#0001
