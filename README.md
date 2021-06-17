@@ -17,6 +17,7 @@ I am developing Front-end for 3 years. I am engaged in the development of Progre
     - Electron
     - HTML
     - CSS (SASS / SCSS)
+    - SVG
 
 - #### Linting: ####
     - Prettier
