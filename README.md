@@ -10,13 +10,27 @@ I am developing Front-end for 3 years. I am engaged in the development of Progre
 ### My tool stack: ###
 
 - ####  Development: ####
-    - Vue (v2) (Vuex, Vue-router, Vue-meta)
+    - Vue (v2)
+        - Vuex 
+        - Vue-router
+        - Vue-meta
+        - Vue-loader
+        - etc ecosystem...
     - Nuxt
-    - JavaScript (ES5-ES11)
-    - TypeScript
+        - CSR
+        - SSR
+    - JavaScript
+        - EcmaScript v5-11
+        - TypeScript
     - Electron
     - HTML
-    - CSS (SASS / SCSS)
+        - Semantic
+        - Accessibility
+        - SEO
+    - CSS
+        - BEM
+        - PostCSS
+        - SASS / SCSS
     - SVG
 
 - #### Linting: ####
